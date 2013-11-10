@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'ClairvauxRegular';
+    src: url('clairvaux.eot');
+    src: url('clairvaux.eot') format('embedded-opentype'),
+         url('clairvaux.woff') format('woff'),
+         url('clairvaux.ttf') format('truetype'),
+         url('clairvaux.svg#ClairvauxRegular') format('svg');
+}

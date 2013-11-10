@@ -1,0 +1,2022 @@
+<?xml version="1.0" encoding="utf-8"?>
+<luceelimoni>
+	<sitedata>
+
+		<pages>
+			<home>
+				<title>Luce e Limoni Restaurant</title>
+				<metadescription></metadescription>
+				<content></content>
+			</home>
+
+			<!-- START of About Us page -->
+			<aboutus>
+				<title>About Us Luce e Limoni</title>
+				<metadescription>About us</metadescription>
+				<content></content>
+			</aboutus>
+			<therestaurant>
+				<title>The Restaurant Luce e Limoni</title>
+				<metadescription></metadescription>
+				<content>Luce e Limoni is the symbolic return of owner Fabrizio Zafarana to his home, Sicily. It is the materialisation of a concept woven with beauty, local Sicilian cuisine and good taste. In a way, it is the repossession of Fabrizio’s roots.</content>
+			</therestaurant>
+			<!--
+			<staff>
+				<title>Staff at Luce e Limoni</title>
+				<metadescription></metadescription>
+				<content></content>
+			</staff>
+			-->
+			<!-- END of About Us page -->
+
+			<!-- START of Food pages -->
+			<ourfood>
+				<title>Our Food at Luce e Limoni</title>
+				<metadescription>The menu is embracing the native approach to food – take the best ingredients, allow that quality to shine through and present them with as little fuss as possible.</metadescription>
+				<content><![CDATA[The menu is embracing the native approach to food – take the best ingredients, allow that quality to shine through and present them with as little fuss as possible.<br /><br />Our food is the story of a long trip which changes over time, but with one common point: the tradition. In Sicily, trade brought hundreds of years of foreign influence, which we try to bring in our restaurant by offering revisited traditional dishes giving fresh sensations to our customers.<br /><br /><br />]]></content>
+			</ourfood>
+			<aperitifs>
+				<title>Aperitifs at Luce e Limoni</title>
+				<metadescription>Enjoy a relaxing pre-dinner aperitif… to “open” the palate and stimulate the appetite.</metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Aperitifs with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Aperitifs<br /><br /></th>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Campari - with orange or soda</th>
+								<td>&nbsp;</td>
+								<td>&pound;7.50</td>
+							</tr>
+							<tr>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Martini - white, red or dry</th>
+								<td>&nbsp;</td>
+								<td>&pound;7.50</td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Aperol Spritz</th>
+								<td>&nbsp;</td>
+								<td>&pound;7.50</td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Bellini</th>
+								<td>&nbsp;</td>
+								<td>&pound;7.50</td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</aperitifs>
+			<starters>
+				<title>Starters from Luce e Limoni</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Starters with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Starters<br /><br /></th>
+								<td>&nbsp;</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Fritto misto di mare con maionese alla bottarga</th>
+								<td>&nbsp;</td>
+								<td>&pound;10.50</td>
+							</tr>
+							<tr>
+								<td colspan="2">Deep-fried mixed seafood with bottarga mayonnaise<br /><br /></td>
+							</tr>
+							<tr>
+								<th scope="row">Carpaccio di gambero marinato al gin e polline di finocchio con fragole fresche</th>
+								<td>&nbsp;</td>
+								<td>&pound;11.50</td>
+							</tr>
+							<tr>
+								<td colspan="2">Prawns carpaccio marinated with gin and fennel pollen, served with fresh strawberries<br /><br /></td>
+							</tr>
+							<tr>
+								<th scope="row">Prosciutto di tonno con carciofi trifolati e olive</th>
+								<td>&nbsp;</td>
+								<td>&pound;10.95</td>
+							</tr>
+							<tr>
+								<td colspan="2">Wind dried tuna prosciutto with artichokes and olives<br /><br /></td>
+							</tr>
+							<tr>
+								<th scope="row">Cappesante scottate in padella con crema di cavolfiore stufato e acciughe</th>
+								<td>&nbsp;</td>
+								<td>&pound;10.95</td>
+							</tr>
+							<tr>
+								<td colspan="2">Seared kings scallops with cream of cauliflower and anchovies<br /><br /></td>
+							</tr>
+							<tr>
+								<th scope="row">Macco di fave con calamaretti saltati</th>
+								<td>&nbsp;</td>
+								<td>&pound;6.95</td>
+							</tr>
+							<tr>
+								<td colspan="2">Traditional Sicilian dried broad beans soup with spicy squid<br /><br /></td>
+							</tr>
+							<tr>
+								<th scope="row">Burrata con caponata siciliana</th>
+								<td>&nbsp;</td>
+								<td>&pound;9.95</td>
+							</tr>
+							<tr>
+								<td colspan="2">Creamy mozzarella cheese with Sicilian caponata<br /><br /></td>
+							</tr>
+							<tr>
+								<th scope="row">Sformato di sgombro al forno con ricotta e capperi, silicornia in padella e salsa di peperone rosso arrosto</th>
+								<td>&nbsp;</td>
+								<td>&pound;9.50</td>
+							</tr>
+							<tr>
+								<td colspan="2">Baked mackerel timbal with capers, ricotta, samphire and red pepper couli<br /><br /></td>
+							</tr>
+							<tr>
+								<th scope="row">Tortino di melanzane e casacavaddu fondente con pomodoro e foglie di menta</th>
+								<td>&nbsp;</td>
+								<td>&pound;9.50</td>
+							</tr>
+							<tr>
+								<td colspan="2">Roast aubergine with melting pecorino cheese, tomato and mint leaves<br /><br /></td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</starters>
+			<pastaandrisotto>
+				<title>Pasta &amp; Risotto from Luce e Limoni</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Pasta and Risotto menu with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Pasta &amp; Risotto<br /><br /></th>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Bucatini alle sarde con pomodori secchi, capperi, sultana e mollica tostata</th>
+								<td>&nbsp;</td>
+								<td>&pound;10.50</td>
+							</tr>
+							<tr>
+								<td>Bucatini with sardines, sun dried tomato, capers, sultanas and toasted breadcrumbs<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Conchiglioni gratinati con granchio, zucchine e salsa di crostacei</th>
+								<td>&nbsp;</td>
+								<td>&pound;11.95</td>
+							</tr>
+							<tr>
+								<td>Large shell pasta gratin with crab, courgette and shellfish sauce<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Rigatoni con melanzane, pomodoro, basilico e ricotta salata</th>
+								<td>&nbsp;</td>
+								<td>&pound;9.95</td>
+							</tr>
+							<tr>
+								<td>Rigatoni with aubergine, tomato, basil and salty ricotta cheese<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Spaghetti all’aragosta con sesamo tostato, brandy e pomodorini ciliegia</th>
+								<td>&nbsp;</td>
+								<td>&pound;15.95</td>
+							</tr>
+							<tr>
+								<td>Half lobster spaghetti with toasted sesame seeds, brandy and cherry tomatoes<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Gnocchi di zucca gialla con salsa di pistacchio di bronte ed erba cipolina</th>
+								<td>&nbsp;</td>
+								<td>&pound;10.50</td>
+							</tr>
+							<tr>
+								<td>Pumpkin gnocchi with pistachio sauce and spring onion<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Ravioli di basilico con ricotta e polpa di ricci in brodino di mare</th>
+								<td>&nbsp;</td>
+								<td>&pound;10.95</td>
+							</tr>
+							<tr>
+								<td>Basil ravioli with sea urchin and ricotta cheese<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Tagliatelle al cacao con ragú di lepre e foglie di timo limonato</th>
+								<td>&nbsp;</td>
+								<td>&pound;10.95</td>
+							</tr>
+							<tr>
+								<td>Cocoa tagliatelle with hare ragout and fresh lemon thyme<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Risotto allo zafferano con cernia, fave e scaglie di piacentino</th>
+								<td>&nbsp;</td>
+								<td>&pound;10.95</td>
+							</tr>
+							<tr>
+								<td>Saffron risotto with grouper fillet, broad beans and sicilian pecorino<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Linguine al nero di seppia con ragú di triglia e olive</th>
+								<td>&nbsp;</td>
+								<td>&pound;11.50</td>
+							</tr>
+							<tr>
+								<td>Cuttlefish ink linguine with red mullet ragout and olives<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Tortelloni di salsiccia e patate con pomodoro, basilico e cime di rapa piccanti</th>
+								<td>&nbsp;</td>
+								<td>&pound;10.50</td>
+							</tr>
+							<tr>
+								<td>Sicilian sausage and potato tortelloni with tomato, basil and spicy sprouting broccoli<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Stufato di mare piccante con cus cus al vapore</th>
+								<td>&pound;13.95&nbsp;&ndash;</td>
+								<td>&pound;15.95</td>
+							</tr>
+							<tr>
+								<td>Stewed spicy seafood with tomato and steamed couscous<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</pastaandrisotto>
+			<meatandfish>
+				<title>Meat &amp; Fish from Luce e Limoni</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Meat and Fish menu with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Meat &amp; Fish<br /><br /></th>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Porchetta alle erbe arrostita lentamente con lenticchie stufate e riduzione di Marsala</th>
+								<td>&nbsp;</td>
+								<td>&pound;14.95</td>
+							</tr>
+							<tr>
+								<td>Slowly roasted pork belly served with lentils and Marsala reduction<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Nodino di vitello alla griglia con patate arrosto e spinaci</th>
+								<td>&nbsp;</td>
+								<td>&pound;17.50</td>
+							</tr>
+							<tr>
+								<td>Grilled T-bone veal served with roast potatoes and spinach<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Scamone di agnello al forno marinato alla canella con datteri e scalogno caramellato e riduzione di vino rosso e rosmarino</th>
+								<td>&nbsp;</td>
+								<td>&pound;15.95</td>
+							</tr>
+							<tr>
+								<td>Roast rump of lamb with cinnamon, date and caramelised shallots with red wine jus and rosemary, with mashed potato<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Coniglio arrosto ripieno con paté di funghi, puera di sedano rapa e fagiolini all'aglio</th>
+								<td>&nbsp;</td>
+								<td>&pound;14.50</td>
+							</tr>
+							<tr>
+								<td>Roasted rabbit legs stuffed with mushroom paté and wrapped in speck, with mashed celeriac and wilted french beans<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Tonno grigliato con peperonata in agrodolce</th>
+								<td>&nbsp;</td>
+								<td>&pound;14.95</td>
+							</tr>
+							<tr>
+								<td>Grilled tuna steak with stewed red pepper and onions<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Trancio di pesce spada in crosta di pane e pecorino con finocchi gratinati e salsa di pomodoro crudo</th>
+								<td>&nbsp;</td>
+								<td>&pound;14.50</td>
+							</tr>
+							<tr>
+								<td>Baked swordfish loin in bread crust, herbs and pecorino cheese,with spicy fresh tomato salsa and fennel gratin<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Filetto di ricciola al cartoccio con gamberi, pomodorini, patate e dragoncello</th>
+								<td>&nbsp;</td>
+								<td>&pound;14.95</td>
+							</tr>
+							<tr>
+								<td>Roast amberjack fillet with prawns, cherry tomato, potato and tarragon leaves in papillate<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Pagello arrosto con insalata di arance e menta</th>
+								<td>&nbsp;</td>
+								<td>&pound;14.95</td>
+							</tr>
+					<tr>
+								<td>Roast whole sea bream with orange and fresh mint salad<br /><br /></td>
+					<td colspan="2">&nbsp;</td>
+					</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</meatandfish>
+			<saladsandsides>
+				<title>Salads &amp; Sides from Luce e Limoni</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Salads and Sides menu with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Salads &amp; Sides<br /><br /></th>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Pane ed olio</th>
+								<td>&nbsp;</td>
+								<td>&pound;1.90</td>
+							</tr>
+							<tr>
+								<td>Bread and Sicilian extra virgin olive oil<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Insalata mista</th>
+								<td>&nbsp;</td>
+								<td>&pound;5.50</td>
+							</tr>
+							<tr>
+								<td>Mixed baby leaf salad<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Insalata di pomodoro e cipolla</th>
+								<td>&nbsp;</td>
+								<td>&pound;5.50</td>
+							</tr>
+							<tr>
+								<td>Tomato and onion salad<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Insalata di rucola e pomodoro</th>
+								<td>&nbsp;</td>
+								<td>&pound;5.95</td>
+							</tr>
+							<tr>
+								<td>Rocket and tomato salad<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Patate</th>
+								<td>&nbsp;</td>
+								<td>&pound;4.50</td>
+							</tr>
+							<tr>
+								<td>Potatoes (mashed or roast)<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Vegetali misti</th>
+								<td>&nbsp;</td>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<td>Mixed vegetables<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Caponata siciliana</th>
+								<td>&nbsp;</td>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<td>Stewed aubergine, capers, olives and tomatoes<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Peperonata all'agro</th>
+								<td>&nbsp;</td>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<td>Stewed sweet peppers<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</saladsandsides>
+			<dessertsmenu>
+				<title>Desserts Menu at Luce e Limoni</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Desserts menu with one level of rows and 2 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Desserts Menu<br /><br /></th>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Cassatina siciliana  -  Traditional Sicilian cassata<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Cannoli di ricotta e cioccolato  -  Sicilian cannoli<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;5.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Semifreddo al pistacccio con gelo di melone</th>
+								<td>&nbsp;</td>
+								<td>&pound;5.95</td>
+							</tr>
+							<tr>
+								<td>Pistachio semifreddo with Sicilian melon jelly<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Tiramisu</th>
+								<td>&nbsp;</td>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<td>&nbsp;<br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Meringa al limone</th>
+								<td>&nbsp;</td>
+								<td>&pound;5.50</td>
+							</tr>
+							<tr>
+								<td>Lemon meringue<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Pannacotta al cardamomo con lamponi freschi</th>
+								<td>&nbsp;</td>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<td>Cardamon pannacotta with fresh raspberries<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Cioccolato fondente con gelato alla nocciola</th>
+								<td>&nbsp;</td>
+								<td>&pound;6.95</td>
+							</tr>
+							<tr>
+								<td>Hot chocolate fondante with hazelnut ice cream<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Selezione di gelati e sorbetti</th>
+								<td>&nbsp;</td>
+								<td>&pound;5.50</td>
+							</tr>
+							<tr>
+								<td>Ice cream and sorbet selection (please ask a member of staff)<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Tagliere con formaggi e biscotti</th>
+								<td>&nbsp;</td>
+								<td>&pound;8.50</td>
+							</tr>
+							<tr>
+								<td>Italian cheese board with biscuits<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</dessertsmenu>
+			<!-- END of Food pages -->
+
+			<!-- START of Drinks pages -->
+			<sparklingwine>
+				<title>Sparkling wine at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Sparkling wines with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Sparkling Wine<br /><br /></th>
+								<th scope="col">Glass<br />(125ml)</th>
+								<th scope="col">Bottle<br /><br /></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Prosecco di Conegliano</th>
+								<td>&pound;4.95</td>
+								<td>&pound;23.95</td>
+							</tr>
+							<tr>
+								<td>Extra Dry NV Carpene Malvolti (Veneto) Italy<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Montenisa Franciacorta Brut</th>
+								<td>&nbsp;</td>
+								<td>&pound;38.00</td>
+							</tr>
+							<tr>
+								<td>Chardonnay, Pinot Blanc, Pinot Nero (Lombardia) Italy<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Champagne Deutz Brut Classic</th>
+								<td>&nbsp;</td>
+								<td>&pound;39.00</td>
+							</tr>
+							<tr>
+								<td>France<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</sparklingwine>
+			<beer>
+				<title>Beers wine at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Beers with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Beer</th>
+								<td>&nbsp;</td>
+								<th scope="col" class="active">Bottle<br />(300ml)</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Nastro Azzurro</th>
+								<td>&nbsp;</td>
+								<td>&pound;3.95</td>
+							</tr>
+							<tr>
+								<td>&nbsp;<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</beer>
+			<softdrinks>
+				<title>Soft drinks at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Soft drinks with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Soft Drinks<br /><br /></th>
+								<td>&nbsp;</td>
+								<th scope="col">Glass<br /><br /></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Fresh orange juice<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;2.40</td>
+							</tr>
+							<tr>
+								<th scope="row">Tomato juice<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;2.10</td>
+							</tr>
+							<tr>
+								<th scope="row">Cranberry juice<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;1.95</td>
+							</tr>
+							<tr>
+								<th scope="row">Apple juice<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;1.95</th>
+							</tr>
+							<tr>
+								<th scope="row">Coke/Diet Coke<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;1.95</td>
+							</tr>
+							<tr>
+								<th scope="row">Slimline/Tonic water<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;1.95</td>
+							</tr>
+							<tr>
+								<th scope="row">Sicilian lemonade<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;2.40</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</softdrinks>
+			<mineralwater>
+				<title>Mineral water at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Mineral water with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Mineral Water<br /><br /></th>
+								<th scope="col" class="active">Glass<br /><br /></th>
+								<th scope="col" class="active">Bottle<br /><br /></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Panna Still<br /><br /></th>
+								<td>&pound;1.50</td>
+								<td>&pound;4.10</td>
+							</tr>
+							<tr>
+								<th scope="row">San Pellegrino Sparkling<br /><br /></th>
+								<td>&pound;1.50</td>
+								<td>&pound;4.10</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</mineralwater>
+
+			<cocktails>
+				<title>Cocktails at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Cocktails with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Cocktails<br /><br /></th>
+								<td>&nbsp;</td>
+								<th scope="col">Glass<br /><br /></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Negroni<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;7.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Campari - with orange or soda<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;7.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Martini - white, red or dry<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;7.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Rossini<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;7.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Mojito<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;7.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Bloody Mary<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;7.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Pimms & lemonade<br /><br /></th>
+								<td>&nbsp;</td>
+								<td>&pound;7.50</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</cocktails>
+			<rosefromsicily>
+				<title>Rosé wine at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Rosé from Sicily with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Rosé from Sicily<br /><br /></th>
+								<th scope="col" class="active">125ml<br /><br /></th>
+								<th scope="col" class="active">175ml<br /><br /></th>
+								<th scope="col" class="active">Bottle<br /><br /></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Regareali &quot;Le Rosé&quot; Nerello Mascalese, Nero D’Avola 11</th>
+								<td>&pound;3.65</td>
+								<td>&pound;5.25</td>
+								<td>&pound;20.50</td>
+							</tr>
+							<tr>
+								<td>Tasca D’Almerita<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Syrah Rosé IGT 12</th>
+								<td>&pound;3.65</td>
+								<td>&pound;5.25</td>
+								<td>&pound;20.50</td>
+							</tr>
+							<tr>
+								<td>Planeta<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</rosefromsicily>
+			<whitewine>
+				<title>White wine from Sicily at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="White wine from Sicily with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">White wine from Sicily<br /><br /></th>
+								<th scope="col" class="active">125ml<br /><br /></th>
+								<th scope="col" class="active">175ml<br /><br /></th>
+								<th scope="col" class="active">Bottle<br /><br /></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Cerattaro-Chardonnay IGT 2011</th>
+								<td>&pound;3.25</td>
+								<td>&pound;4.50</td>
+								<td>&pound;17.50</td>
+							</tr>
+							<tr>
+								<td>Angelo<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Inzolia  IGT &quot;Tareni del Duca&quot; 2011</th>
+								<td>&pound;3.50</td>
+								<td>&pound;4.95</td>
+								<td>&pound;19.95</td>
+							</tr>
+							<tr>
+								<td>Carlo Pellegrino<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Grillo 2012</th>
+								<td>&pound;3.75</td>
+								<td>&pound;5.50</td>
+								<td>&pound;21.50</td>
+							</tr>
+							<tr>
+								<td>Cento Cavalli<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Zibbibo &quot;Gibele&quot; 2012</th>
+								<td>&pound;4.60</td>
+								<td>&pound;5.80</td>
+								<td>&pound;23.50</td>
+							</tr>
+							<tr>
+								<td>Duca di Castelmonte<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Sauvignon Blanc &quot;Urra di Mare&quot; 2012</th>
+								<td>&pound;4.60</td>
+								<td>&pound;5.80</td>
+								<td>&pound;23.50</td>
+							</tr>
+							<tr>
+								<td>Mandrarossa<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Polena Donnafugata 2012</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;24.50</td>
+							</tr>
+							<tr>
+								<td>Donnafugata<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Insolia IGT 10/11</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;25.95</td>
+							</tr>
+							<tr>
+								<td>Principi di Butera<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Etna Bianco di Caselle  Caricante 09</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;25.95</td>
+							</tr>
+							<tr>
+								<td>Azienda Agricola Benanti<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Leone D’Almerita Cataratto, Pinot Bianco, Sauvignon IGT 12</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;25.95</td>
+							</tr>
+							<tr>
+								<td>Tasca D’Almerita<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Barbazzale Inzolia-Vionier  IGT 12</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;24.50</td>
+							</tr>
+							<tr>
+								<td>Cottanera<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">&quot;Ciuri&quot; Etna Bianco Nerello Mascalese-Caricante 2012</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;28.50</td>
+							</tr>
+							<tr>
+								<td>Terrazze dell'Etna<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Rami Bianco Insolia-Grecanico 2010</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;28.50</td>
+							</tr>
+							<tr>
+								<td>Cos<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Fiano &quot;Cometa&quot;  IGT 2010/11</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;33.00</td>
+							</tr>
+							<tr>
+								<td>Planeta<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+						</tbody>
+					</table><br />
+					<table class="tabledata" summary="White wine from Italy and Sardinia with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">White wine from Italy and Sardinia</th>
+								<td>&nbsp;</td>
+								<th scope="col" class="active">Bottle</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Vermentino di Sardegna Cala Silente Santadi 11/12</th>
+								<td>&nbsp;</td>
+								<td>&pound;23.95</td>
+							</tr>
+							<tr>
+								<td>Sardegna<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Efeso Bianco Librandi 10</th>
+								<td>&nbsp;</td>
+								<td>&pound;27.86</td>
+							</tr>
+							<tr>
+								<td>Mantonico, Calabria<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Greco di Tufo Cutizzi DOCG Feudi di San Gregorio 11/12</th>
+								<td>&nbsp;</td>
+								<td>&pound;23.55</td>
+							</tr>
+							<tr>
+								<td>Campania<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Falanghina Taburno Vigna del Monaco Ocone 11</th>
+								<td>&nbsp;</td>
+								<td>&pound;25.50</td>
+							</tr>
+							<tr>
+								<td>Campania<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Pomino Benefizio Chardonnay, Pinot Bianco 10/11</th>
+								<td>&nbsp;</td>
+								<td>&pound;22.50</td>
+							</tr>
+							<tr>
+								<td>Castello di Pomino Toscana<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Vernaccia di San Giminiano Panizzi 11</th>
+								<td>&nbsp;</td>
+								<td>&pound;22.95</td>
+							</tr>
+							<tr>
+								<td>Toscana<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Verdicchio Dei Castelli di Jesi Clissico Superiore Eklektico 11/12</th>
+								<td>&nbsp;</td>
+								<td>&pound;21.50</td>
+							</tr>
+							<tr>
+								<td>Fattoria Laila Marche<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Pecorino 2011 Fattoria la Valentina</th>
+								<td>&nbsp;</td>
+								<td>&pound;22.50</td>
+							</tr>
+							<tr>
+								<td>Abruzzi<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Gewurztraminer Nussbaumer DOC Cantina Tramin 11/12</th>
+								<td>&nbsp;</td>
+								<td>&pound;22.50</td>
+							</tr>
+							<tr>
+								<td>Alto Adige<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Soave Superiore Le Bine De Costiolo Tamellini 09</th>
+								<td>&nbsp;</td>
+								<td>&pound;22.50</td>
+							</tr>
+							<tr>
+								<td>Veneto<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Pinot Grigio IGT Jerman 11/12</th>
+								<td>&nbsp;</td>
+								<td>&pound;29.95</td>
+							</tr>
+							<tr>
+								<td>Friuli Venezia Giulia<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Rovereto Gavi di Gavi DOCG Michele Chiarlo 11/12</th>
+								<td>&nbsp;</td>
+								<td>&pound;25.50</td>
+							</tr>
+							<tr>
+								<td>Piemonte<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</whitewine>
+			<redwine>
+				<title>Red wine at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Red wine from Sicily with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Red wine from Sicily<br /><br /></th>
+								<th scope="col" class="active">125ml<br /><br /></th>
+								<th scope="col" class="active">175ml<br /><br /></th>
+								<th scope="col" class="active">Bottle<br /><br /></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Nero Davola &quot;Tareni del Duca&quot; IGT 2011</th>
+								<td>&pound;3.50</td>
+								<td>&pound;4.95</td>
+								<td>&pound;19.50</td>
+							</tr>
+							<tr>
+								<td>Carlo Pellegrino<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Cabernet Sauvignon IGP 2011</th>
+								<td>&pound;3.50</td>
+								<td>&pound;4.95</td>
+								<td>&pound;19.50</td>
+							</tr>
+							<tr>
+								<td>Nadaria-Cusumano<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Syrah IGT Terre di Di Sicilia 2012</th>
+								<td>&pound;3.50</td>
+								<td>&pound;4.95</td>
+								<td>&pound;19.50</td>
+							</tr>
+							<tr>
+								<td>Passo del Tempio<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Merlot  IGT 11</th>
+								<td>&pound;3.50</td>
+								<td>&pound;4.95</td>
+								<td>&pound;19.50</td>
+							</tr>
+							<tr>
+								<td>Mandrarossa<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Nerello Mascalese  IGP 2011</th>
+								<td>&pound;3.75</td>
+								<td>&pound;5.50</td>
+								<td>&pound;21.50</td>
+							</tr>
+							<tr>
+								<td>Nadaria-Cusumano<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Sherazade Nero Davola 11</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;21.95</td>
+							</tr>
+							<tr>
+								<td>Donnafugata<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Timperosse Petit Verdot, Syrah 11</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;21.95</td>
+							</tr>
+							<tr>
+								<td>Mandrarossa<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Il Passo Nerello Mascalase, Nero D’Avola 2012</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;25.00</td>
+							</tr>
+							<tr>
+								<td>Vigneti Zabu<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Tripudium Nero Davola, Sirah, Cabernet Sauvignon  IGP 09/10</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;27.95</td>
+							</tr>
+							<tr>
+								<td>Carlo Pellegrino<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Riesi Nero D’Avola, Syrah 10</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;27.95</td>
+							</tr>
+							<tr>
+								<td>Pincipi di Buttera<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Cerasuolo di Vittoria &quot;Riserva Dorilli&quot; Nero D’Avola, Frappato 2010</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;31.95</td>
+							</tr>
+							<tr>
+								<td>Planeta<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Pithos Rosso Nero D’Avola, Frappato 2011</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;32.50</td>
+							</tr>
+							<tr>
+								<td>Cos<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Burdese Cabernet Sauvignon, Cabernet Franc 2007</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;35.50</td>
+							</tr>
+							<tr>
+								<td>Planeta<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Outis Etna Rosso Nerello Mascalese Nerello Cappuccio 2008/10</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;40.50</td>
+							</tr>
+							<tr>
+								<td>Biondi<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Etna Rosso Nerello Mascalese Nerello Cappuccio 08</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;46.50</td>
+							</tr>
+							<tr>
+								<td>Cottanera<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Sagana Nero D’Avola 2008/9</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;34.50</td>
+							</tr>
+							<tr>
+								<td>Cusumano<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Faro Nerello Mascalese, Nerello Cappuccio, Nocera 07</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;68.50</td>
+							</tr>
+							<tr>
+								<td>Palari<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Mille e una Notte 2007</th>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&pound;69.50</td>
+							</tr>
+							<tr>
+								<td>Donna Fugata<br /><br /></td>
+								<td colspan="3">&nbsp;</td>
+							</tr>
+						</tbody>
+					</table><br />
+					<table class="tabledata" summary="Red wine from Italy and Sardinia with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Red wine from Italy and Sardinia</th>
+								<td>&nbsp;</td>
+								<th scope="col" class="active">Bottle</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Cannonau Sardegna &quot;Noras&quot; Santaldi 09</th>
+								<td>&nbsp;</td>
+								<td>&pound;25.95</td>
+							</tr>
+							<tr>
+								<td>Sardegna<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Montepulciano D’Abruzzo DOC Valle Reale 08/09</th>
+								<td>&nbsp;</td>
+								<td>&pound;25.95</td>
+							</tr>
+							<tr>
+								<td>Abruzzo<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Dolcetto D’Alba Priavino Roberto Voerzio</th>
+								<td>&nbsp;</td>
+								<td>&pound;29.95</td>
+							</tr>
+							<tr>
+								<td>Piemonte<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Valpolicella Classico &quot;Bonacosta&quot; Masi 11</th>
+								<td>&nbsp;</td>
+								<td>&pound;26.95</td>
+							</tr>
+							<tr>
+								<td>Veneto<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Primitivo di Manduria DOCG &quot;Pazzia&quot; Luccarelli 09</th>
+								<td>&nbsp;</td>
+								<td>&pound;29.50</td>
+							</tr>
+							<tr>
+								<td>Puglia<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Taurasi Aglianico DOCG Feudi di San Gregorio 08/09</th>
+								<td>&nbsp;</td>
+								<td>&pound;27.50</td>
+							</tr>
+							<tr>
+								<td>Campania<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">“Alarico” Nerello Mascalese Valle del Crati IGT 10</th>
+								<td>&nbsp;</td>
+								<td>&pound;32.95</td>
+							</tr>
+							<tr>
+								<td>Calabria<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Lucente IGT Luce della Vite 10</th>
+								<td>&nbsp;</td>
+								<td>&pound;39.95</td>
+							</tr>
+							<tr>
+								<td>Toscana<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Chianti Classico Riserva Marchesi Antinori 08</th>
+								<td>&nbsp;</td>
+								<td>&pound;32.00</td>
+							</tr>
+							<tr>
+								<td>Toscana<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Pinot Nero Focara Colli Pesaresi Fattoria Mancini 10</th>
+								<td>&nbsp;</td>
+								<td>&pound;38.95</td>
+							</tr>
+							<tr>
+								<td>Marche<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Montefalco Rosso Sangiovese, Sagrantino Perticaia 10</th>
+								<td>&nbsp;</td>
+								<td>&pound;38.50</td>
+							</tr>
+							<tr>
+								<td>Umbria<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Terre Brune 2008 Carignano del Sulcis Santadi</th>
+								<td>&nbsp;</td>
+								<td>&pound;50.95</td>
+							</tr>
+							<tr>
+								<td>Umbria<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Brunello di Montalcino  Castel Giocondo Frescobaldi 07</th>
+								<td>&nbsp;</td>
+								<td>&pound;50.95</td>
+							</tr>
+							<tr>
+								<td>Tuscany<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Barolo Tortoniano DOCG Michele Chiarlo 08/09</th>
+								<td>&nbsp;</td>
+								<td>&pound;47.50</td>
+							</tr>
+							<tr>
+								<td>Piemonte<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Barbera D’Alba Pian Romualdo Prunotto 08</th>
+								<td>&nbsp;</td>
+								<td>&pound;31.95</td>
+							</tr>
+							<tr>
+								<td>Piemonte<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Barbaresco Coste Rubin DOCG Fontanafredda 07</th>
+								<td>&nbsp;</td>
+								<td>&pound;38.95</td>
+							</tr>
+							<tr>
+								<td>Piemonte<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Amarone della Valpolicella DOCG Tedeschi 08/09</th>
+								<td>&nbsp;</td>
+								<td>&pound;38.95</td>
+							</tr>
+							<tr>
+								<td>Veneto<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Turriga IGT Argiolas 07/08</th>
+								<td>&nbsp;</td>
+								<td>&pound;61.00</td>
+							</tr>
+							<tr>
+								<td>Sardegna<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Tignanello IGT Antinori 09</th>
+								<td>&nbsp;</td>
+								<td>&pound;79.95</td>
+							</tr>
+							<tr>
+								<td>Toscana<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</redwine>
+			<dessertwine>
+				<title>Dessert wine at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Dessert and fortified wines with one level of rows and 3 columns">
+						<thead>
+							<tr>
+								<th scope="col" class="active">Dessert &amp; Fortified Wines<br /><br /></th>
+								<th scope="col">Glass<br />(100ml)<br /><br /></th>
+								<th scope="col">Half<br />(375ml)<br /><br /></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Marsala Superiore Dolce</th>
+								<td>&pound;4.95</td>
+								<td>&pound;14.95</td>
+							</tr>
+							<tr>
+								<td>Carlo Pellegrino Sicily - Italy<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Passito di Pantelleria D.O.C.</th>
+								<td>&pound;6.95</td>
+								<td>&pound;19.95</td>
+							</tr>
+							<tr>
+								<td>Carlo Pellegrino 2011 Sicily - Italy<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Ben Ryé Passito di Pantelleria</th>
+								<td>&nbsp;</td>
+								<td>&pound;38.50</td>
+							</tr>
+							<tr>
+								<td>Donnafugata 2010 Sicily<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<th scope="col" class="active">Bottle<br />(500ml)</th>
+							</tr>
+							<tr>
+								<th scope="row">Moscato dello Zucco</th>
+								<td>&nbsp;</td>
+								<td>&pound;38.00</td>
+							</tr>
+							<tr>
+								<td>Cusumano 2008 Sicily - Italy<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Malvasia di Salina IGT</th>
+								<td>&nbsp;</td>
+								<td>&pound;36.95</td>
+							</tr>
+							<tr>
+								<td>Tenuta Capofaro 2008 Sicily<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<th scope="row">Passito di Noto</th>
+								<td>&nbsp;</td>
+								<td>&pound;32.95</td>
+							</tr>
+							<tr>
+								<td>Planeta 2010 Sicily - Italy<br /><br /></td>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</dessertwine>
+			<hotdrinks>
+				<title>Hot drinks at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Hot drinks with one level of rows and 2 columns">
+						<thead>
+							<tr>
+								<th scope="col">Hot drinks<br /><br /></th>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Espresso<br /><br /></th>
+								<td>&pound;1.80</td>
+							</tr>
+							<tr>
+								<th scope="row">Espresso macchiato<br /><br /></th>
+								<td>&pound;1.80</td>
+							</tr>
+							<tr>
+								<th scope="row">Double espresso<br /><br /></th>
+								<td>&pound;2.40</td>
+							</tr>
+							<tr>
+								<th scope="row">Caffé latte<br /><br /></th>
+								<td>&pound;2.95</td>
+							</tr>
+							<tr>
+								<th scope="row">Cappuccino<br /><br /></th>
+								<td>&pound;2.65</td>
+							</tr>
+							<tr>
+								<th scope="row">Tea - English breakfast or herbal selection<br /><br /></th>
+								<td>&pound;2.30</td>
+							</tr>
+							<tr>
+								<th scope="row">Irish coffee<br /><br /></th>
+								<td>&pound;5.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Filter coffee<br /><br /></th>
+								<td>&pound;2.20</td>
+							</tr>
+							<tr>
+								<th scope="row">Affogato - with vanilla ice cream<br /><br /></th>
+								<td>&pound;4.95</td>
+							</tr>
+							<tr>
+								<th scope="row">Corretto - with grappa, sambuca or brandy<br /><br /></th>
+								<td>&pound;5.95</td>
+							</tr>
+							<tr>
+								<th scope="row">Hot chocolate<br /><br /></th>
+								<td>&pound;3.95</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</hotdrinks>
+			<whisky>
+				<title>Whisky at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Whisky with one level of rows and 2 columns">
+						<thead>
+							<tr>
+								<th scope="col">Whisky<br /><br /></th>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Jameson<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Macallan Gold Highland<br /><br /></th>
+								<td>&pound;7.95</td>
+							</tr>
+							<tr>
+								<th scope="row">Jack Daniel’s<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Glenlivet 12 yrs old<br /><br /></th>
+								<td>&pound;7.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Baileys<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</whisky>
+			<brandy>
+				<title>Brandy at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Brandy with one level of rows and 2 columns">
+						<thead>
+							<tr>
+								<th scope="col">Brandy<br /><br /></th>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Vecchia Romagna<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Remy Martin<br /><br /></th>
+								<td>&pound;7.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Courvoisier<br /><br /></th>
+								<td>&pound;6.95</td>
+							</tr>
+							<tr>
+								<th scope="row">Hennessy<br /><br /></th>
+								<td>&pound;6.95</td>
+							</tr>
+							<tr>
+								<th scope="row">Calvados<br /><br /></th>
+								<td>&pound;7.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Armagnac<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</brandy>
+			<rums>
+				<title>Rums at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Rums with one level of rows and 2 columns">
+						<thead>
+							<tr>
+								<th scope="col">Rums<br /><br /></th>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Bacardi<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Captain Morgan<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Havana Club<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</rums>
+			<liquors>
+				<title>Liquors at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Liquors with one level of rows and 2 columns">
+						<thead>
+							<tr>
+								<th scope="col">Liquors<br /><br /></th>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Amaretto<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Sambuca<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Limoncello<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Grand Marnier<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Amaro Averna<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Jägermeister<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Amaro Montenegro<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</liquors>
+			<spirits>
+				<title>Spirits at Luce e Limoni bar</title>
+				<metadescription></metadescription>
+				<content>
+					<![CDATA[<table class="tabledata" summary="Spirits with one level of rows and 2 columns">
+						<thead>
+							<tr>
+								<th scope="col">Spirits<br /><br /></th>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Special Grappas<br /><br /></th>
+								<td>&pound;8.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Grappa Nonnino<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Smirnoff Vodka<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+							<tr>
+								<th scope="row">Gordon’s Gin<br /><br /></th>
+								<td>&pound;6.50</td>
+							</tr>
+						</tbody>
+					</table><br /><br /><br />]]>
+				</content>
+			</spirits>
+			<!-- END of Drinks pages -->
+
+			<!-- START of Reservations page -->
+			<reservations>
+				<title>Reservations at Luce e Limoni</title>
+				<metadescription></metadescription>
+				<content><![CDATA[
+					<!-- widget -->
+						<iframe id="iframePreview" style="border:0; height:425px; position:relative; width:674px" src="http://www.toptable.co.uk/frontdoor/singlerest.aspx?rid=98565&amp;restref=98565&amp;bgcolor=000000&amp;titlecolor=B97F36&amp;subtitlecolor=FFFFFF&amp;btnbgimage=http%3A%2F%2Fwww.toptable.co.uk%2Ffrontdoor%2Fimg%2Fot_btn_black.png&amp;otlink=FFFFFF&amp;icon=light&amp;mode=short&amp;hover=1&amp;code=&amp;rnm=Luce+e+Limoni+(98565)%2C+London&amp;lang=&amp;c=UK&amp;aid=57206"></iframe>
+					<!-- widget end -->
+					]]></content>
+				<content><![CDATA[<h1>Reservation</h1><br />Tel: 020 7242 3382<br /><br />We only accept online bookings for tables up to 6 guests. For table of 7 or more please call the restaurant.<br /><br />We are able to accommodate larger parties for lunch or dinner by prior arrangement, but we may have to offer a reduced version of the menu. Please call in advance to discuss your requirements.<br /><br />For tables of 7 or more we require credit card details upon booking. We reserve the right to charge a cancellation fee of £25 per person in the event of a no-show or if the cancellation is made after 12pm the same day. If we are able to re-sell the table on the same terms, no cancellation charge is made.<br /><br /><h2>Private Hire</h2><br />We can stage many parties and events where guests can hire the entire restaurant or only part of it for special occasions; anything from a birthday, wedding or anniversary to a corporate event. Please contact us for details.<br /><br />Corkage is charged at £15 a bottle.<br /><br />]]></content>
+			</reservations>
+			<!-- END of Reservations page -->
+
+			<!-- START of Reviews page -->
+			<reviews>
+				<title>Reviews of Luce e Limoni</title>
+				<metadescription></metadescription>
+				<content><![CDATA[<h1>Reviews</h1><br />
+					<p><blockquote><img src="img/tripadvisor.png" height="42" width="70" alt="Luce e Limoni Reviews on tripadvisor" /> Checkout our reviews on <a href="http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d4424544-Reviews-Luce_e_Limoni-London_England.html" class="new-window">tripadvisor.co.uk...</a></blockquote></p>
+					<p><blockquote>&ldquo; Luce e Limoni - a slice of Sicily on Gray's Inn Road &rdquo;. <a href="http://www.barbicanlifeonline.com/?p=747" class="new-window">Barbican Life article...</a><footer>Lawrence Williams, Barbican Life.</footer></blockquote></p>
+					<p><blockquote>&ldquo; An amazing food experience, genuinely great tasting dishes served exquisitely. Will return to this jewel part of London &rdquo;.<footer>Mr. Leigh L.</footer></blockquote></p>
+					<p><blockquote>&ldquo; Was ravenously hungry, but what a splendid way to fill one self with the a little taste of Sicily. Could be pasta made from heaven! &rdquo;.<footer>Miss Emma G.</footer></blockquote></p>
+					<br /><br /><br /><br />
+					]]></content>
+			</reviews>
+			<!-- END of Reviews page -->
+
+			<!-- START of Contact Us page -->
+			<contactus>
+				<title>Contact Luce e Limoni</title>
+				<metadescription></metadescription>
+				<content><![CDATA[<h1>Contact Us</h1><br />91-93 Gray’s Inn Road, <br />London WC1X 8TX <br />Tel: 02072423382<br /><br /><h2>Opening Times:</h2><br />Lunch:<br />Mon-Sat 12pm-3pm<br /><br />Dinner:<br />Mon-Thu 6pm-10pm<br />
+Fri-Sat	6pm-11pm]]></content>
+				<content><![CDATA[<h2>Careers</h2><br />For a career opportunity at Luce e Limoni please email <a href="mailto:flavours@luceelimoni.com">flavours@luceelimoni.com</a>]]></content>
+				<content><![CDATA[<h2>Gift Vouchers</h2><br />If you’re stuck for a personal gift or business reward ideas, our Gift Vouchers are perfect for those who deserve something special. Contact the restaurant for more details.<br /><br /><br />]]></content>
+			</contactus>
+			<!-- END of Contact Us page -->
+		</pages>
+
+		<!-- START of Background Slides -->
+		<slideshow>
+			<slide>
+				<imagesrc>img/Luce-e-limoni-reception.jpg</imagesrc>
+				<imagetitle>Ready to welcome</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/Luce-e-Limoni-open.jpg</imagesrc>
+				<imagetitle>Open for you</imagetitle>
+			</slide> 
+			<slide>
+				<imagesrc>img/franzpagot-fabrizio.jpg</imagesrc>
+				<imagetitle>Restaurant Lemon themed interiors</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/Luce-e-Limoni-lights.jpg</imagesrc>
+				<imagetitle>Lovely ambience</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/handmade-pasta.jpg</imagesrc>
+				<imagetitle>Handmade perfection</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/fresh-ingredients.jpg</imagesrc>
+				<imagetitle>Using fresh ingredients</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/Luce-e-Limoni-Staff.jpg</imagesrc>
+				<imagetitle>Cooking</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/pasta.jpg</imagesrc>
+				<imagetitle>Dressing Dishes</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/prepared.jpg</imagesrc>
+				<imagetitle>Attention to detail</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/Baked-mackerel-timbal.jpg</imagesrc>
+				<imagetitle>Attention to detail</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/Roast-amberjack.jpg</imagesrc>
+				<imagetitle>Roast Amberjack</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/Roast-aubergine.jpg</imagesrc>
+				<imagetitle>Roast Aubergine</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/Luce-e-Limoni-guests.jpg</imagesrc>
+				<imagetitle>Lunch Guest</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/Luce-e-Limoni-patroners.jpg</imagesrc>
+				<imagetitle>Patroning Diners</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/Luce-e-Limoni-wines.jpg</imagesrc>
+				<imagetitle>Wines to compliment your dish</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/Roasted-rabbit.jpg</imagesrc>
+				<imagetitle>Roasted Rabbit</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/beautiful-food.jpg</imagesrc>
+				<imagetitle>Beautiful pasta</imagetitle>
+			</slide>
+			<slide>
+				<imagesrc>img/Luce-e-Limoni-night.jpg</imagesrc>
+				<imagetitle>Luce e Limoni by night</imagetitle>
+			</slide>
+		</slideshow>
+		<!-- END of Background Slides -->
+
+		<!-- START of Navigation -->
+		<sitenav>
+			<category>
+				<label>Home</label>
+				<url>home.php</url>
+			</category>
+
+			<!-- START of About Us menu -->
+			<category>
+				<label>About Us</label>
+				<url>restaurant.php</url>
+				<submenu>
+					<label>Restaurant</label>
+					<url>restaurant.php</url>
+				</submenu>
+				<!--
+				<submenu>
+					<label>Staff</label>
+					<url>staff.php</url>
+				</submenu>
+				-->
+			</category>
+			<!-- END of About Us menu -->
+
+			<!-- START of Food menu -->
+			<category>
+				<label>Food</label>
+				<url>our_food.php</url>
+				<submenu>
+					<label>Our Food</label>
+					<url>our_food.php</url>
+				</submenu>
+				<submenu>
+					<label>Aperitifs</label>
+					<url>aperitifs.php</url>
+				</submenu>
+				<submenu>
+					<label>Starters</label>
+					<url>starters.php</url>
+				</submenu>
+				<submenu>
+					<label>Pasta &amp; Risotto</label>
+					<url>pasta_and_risotto.php</url>
+				</submenu>
+				<submenu>
+					<label>Meat &amp; Fish</label>
+					<url>meat_and_fish.php</url>
+				</submenu>
+				<submenu>
+					<label>Salads &amp; Sides</label>
+					<url>salads_and_sides.php</url>
+				</submenu>
+				<submenu>
+					<label>Desserts Menu</label>
+					<url>desserts_menu.php</url>
+				</submenu>
+			</category>
+			<!-- END of Food menu -->
+
+			<!-- START of Drinks menu -->
+			<category>
+				<label>Drinks</label>
+				<url>sparkling_wine.php</url>
+				<submenu>
+					<label>Sparkling wine</label>
+					<url>sparkling_wine.php</url>
+				</submenu>
+				<submenu>
+					<label>Beer</label>
+					<url>beer.php</url>
+				</submenu>
+				<submenu>
+					<label>Soft drinks</label>
+					<url>soft_drinks.php</url>
+				</submenu>
+				<submenu>
+					<label>Mineral water</label>
+					<url>mineral_water.php</url>
+				</submenu>
+				<submenu>
+					<label>Cocktails</label>
+					<url>cocktails.php</url>
+				</submenu>
+				<submenu>
+					<label>Rosé wine</label>
+					<url>rose_from_sicily.php</url>
+				</submenu>
+				<submenu>
+					<label>White wine</label>
+					<url>white_wine.php</url>
+				</submenu>
+				<submenu>
+					<label>Red wine</label>
+					<url>red_wine.php</url>
+				</submenu>
+				<submenu>
+					<label>Dessert wine</label>
+					<url>dessert_wine.php</url>
+				</submenu>
+				<submenu>
+					<label>Hot drinks</label>
+					<url>hot_drinks.php</url>
+				</submenu>
+				<submenu>
+					<label>Whisky</label>
+					<url>whisky.php</url>
+				</submenu>
+				<submenu>
+					<label>Brandy</label>
+					<url>brandy.php</url>
+				</submenu>
+				<submenu>
+					<label>Rums</label>
+					<url>rums.php</url>
+				</submenu>
+				<submenu>
+					<label>Liquors</label>
+					<url>liquors.php</url>
+				</submenu>
+				<submenu>
+					<label>Spirits</label>
+					<url>spirits.php</url>
+				</submenu>
+			</category>
+			<!-- END of Drinks menu -->
+
+			<!-- START of Reservations menu -->
+			<category>
+				<label>Reservations</label>
+				<url>reservations.php</url>
+			</category>
+			<!-- END of Reservations menu -->
+
+			<!-- START of Reviews menu -->
+			<category>
+				<label>Reviews</label>
+				<url>reviews.php</url>
+			</category>
+			<!-- END of Reviews menu -->
+
+			<!-- START of Contact Us menu -->
+			<category>
+				<label>Contact Us</label>
+				<url>contact_us.php</url>
+			</category>
+			<!-- END of Contact Us menu -->
+
+		</sitenav>
+		<!-- END of Navigation -->
+
+	</sitedata>
+</luceelimoni>
